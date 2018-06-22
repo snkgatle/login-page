@@ -1,5 +1,5 @@
 {
-  "name": "login-page",
+  "name": "nbcoder-login-page",
   "description": "BCX Universal login component",
   "main": "login-page.js",
   "authors": [
@@ -12,7 +12,7 @@
     "component"
   ],
   "homepage": "https://github.com/snkgatle/login-page",
-  "private": true,
+  "private": false,
   "ignore": [
     "**/.*",
     "node_modules",
