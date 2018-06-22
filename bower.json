@@ -2,6 +2,7 @@
   "name": "nbcoder-login-page",
   "description": "BCX Universal login component",
   "main": "login-page.js",
+  "version": "1.0.0",
   "authors": [
     "stephans <stephans.kgatle@gmail.com>"
   ],
