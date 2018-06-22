@@ -1,0 +1,33 @@
+{
+  "name": "login-page",
+  "description": "BCX Universal login component",
+  "main": "login-page.js",
+  "authors": [
+    "stephans <stephans.kgatle@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "main",
+    "login",
+    "component"
+  ],
+  "homepage": "https://github.com/snkgatle/login-page",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "@polymer/polymer": "^3.0.2"
+  },
+  "devDependencies": {
+    "iron-demo-helpers": "@polymer/iron-demo-helpers#^2.1.2",
+    "@webcomponents/webcomponentsjs": "^2.0.2",
+    "bower": "*",
+    "install": "^1.0.4",
+    "web-component-tester": "^6.5.0"
+  }
+}
